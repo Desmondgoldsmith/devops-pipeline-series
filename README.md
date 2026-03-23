@@ -125,7 +125,7 @@ docker stats                    # Monitor resource usage
 
 All articles are published on Dev.to and cross-posted to LinkedIn.
 
-- **Part 1** — [Building a DevOps Pipeline from Scratch: Local Deployment with Vagrant, Docker & Nginx](https://dev.to/desmondgoldsmith)
+- **Part 1** — [Building a DevOps Pipeline from Scratch: Local Deployment with Vagrant, Docker & Nginx](https://dev.to/desmond_goldsmith/building-a-devops-pipeline-from-scratch-local-deployment-with-vagrant-docker-nginx-part-1-11ae)
 
 ---
 
@@ -133,7 +133,7 @@ All articles are published on Dev.to and cross-posted to LinkedIn.
 
 If you find this series useful, feel free to connect:
 
-- Dev.to: [dev.to/desmondgoldsmith](https://dev.to/desmondgoldsmith)
+- Dev.to: [dev.to/desmond_goldsmith](https://dev.to/desmond_goldsmith)
 - LinkedIn: [linkedin.com/in/desmondgoldsmith](https://linkedin.com/in/desmondgoldsmith)
 - GitHub: [github.com/Desmondgoldsmith](https://github.com/Desmondgoldsmith)
 
