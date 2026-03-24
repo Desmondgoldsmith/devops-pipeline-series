@@ -1,9 +1,9 @@
 services:
 
   frontend:
-        build:
-      context: frontend
-      target: development
+    build:
+    context: frontend
+    target: development
     networks:
       - app-network
     depends_on:
